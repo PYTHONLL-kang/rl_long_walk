@@ -1,0 +1,3 @@
+make code easier
+make load and save agent model
+make playing video
