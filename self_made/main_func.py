@@ -103,7 +103,6 @@ while not done:
     state = [cur_y, elapsed_time]
 
     action = agent.act(state, counter)
-    # print(pg.mouse.get_pos())
 
     key_event = pg.key.get_pressed()
 
